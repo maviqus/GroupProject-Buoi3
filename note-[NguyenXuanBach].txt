@@ -1,0 +1,4 @@
+Notes for Nguyen Xuan Bach:
+
+Remember to follow coding standards.
+Update documentation regularly.
