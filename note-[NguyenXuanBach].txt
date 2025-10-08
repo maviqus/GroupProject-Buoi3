@@ -2,3 +2,5 @@ Notes for Nguyen Xuan Bach:
 
 Remember to follow coding standards.
 Update documentation regularly.
+Keep commits small and focused.
+Collaborate with team members.
