@@ -1,0 +1,4 @@
+Notes for BuiThienSon:
+
+- Remember to commit regularly
+- Test changes before pushing
