@@ -3,3 +3,4 @@ Notes for BuiThienSon:
 - Remember to commit regularly
 - Test changes before pushing
 - Keep code clean and readable
+- Document important decisions
