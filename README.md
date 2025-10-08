@@ -1,6 +1,6 @@
-# GroupProject-Buoi3
+# GroupProject-Buoi3 - Member B Version
 
-This is the repository for Group Project Session 3.
+This is the repository for Group Project Session 3 - Modified by Member B.
 
 ## Contributors
 - Nguyen Xuan Bach
