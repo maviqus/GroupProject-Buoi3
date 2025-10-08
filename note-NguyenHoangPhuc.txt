@@ -1,0 +1,21 @@
+Ghi chú cá nhân - Nguyen Hoang Phuc
+==========================================
+
+Ngày: 2025-10-08
+Branch: test-NguyenHoangPhuc
+
+Tiến độ công việc:
+- Đã tạo branch cá nhân thành công ✓
+- Đã thiết lập các file cơ bản ✓
+- Đã hoàn thành commit đầu tiên ✓
+- Đang cập nhật và chuẩn bị commit thứ 2
+
+Ý tưởng:
+- Sử dụng branch test để thử nghiệm
+- Sau khi ổn định sẽ merge vào feature branch
+- Cần đồng bộ thường xuyên với team
+
+Lưu ý quan trọng:
+- Luôn kiểm tra conflicts trước khi merge
+- Viết commit message rõ ràng
+- Backup code thường xuyên
