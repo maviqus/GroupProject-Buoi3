@@ -1,9 +1,11 @@
 # Task List - Nguyen Hoang Phuc
 
 ## Nhiệm vụ hiện tại
-- [ ] Tạo branch cá nhân
-- [ ] Thiết lập môi trường phát triển
+- [x] Tạo branch cá nhân
+- [x] Thiết lập môi trường phát triển
 - [ ] Phát triển tính năng chính
+- [ ] Viết unit tests
+- [ ] Code review
 
 ## Ghi chú
 - Branch: test-NguyenHoangPhuc

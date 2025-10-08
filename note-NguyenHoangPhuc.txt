@@ -5,9 +5,10 @@ Ngày: 2025-10-08
 Branch: test-NguyenHoangPhuc
 
 Tiến độ công việc:
-- Đã tạo branch cá nhân thành công
-- Đang thiết lập các file cơ bản
-- Cần hoàn thành các commit và push
+- Đã tạo branch cá nhân thành công ✓
+- Đã thiết lập các file cơ bản ✓
+- Đã hoàn thành commit đầu tiên ✓
+- Đang cập nhật và chuẩn bị commit thứ 2
 
 Ý tưởng:
 - Sử dụng branch test để thử nghiệm
