@@ -4,3 +4,4 @@ This is the repository for Group Project Session 3 - Updated by Member A for fro
 
 ## Contributors
 - Nguyen Xuan Bach (merged: A + B)
+# GroupProject-Buoi3 - Frontend and Backend Updates
