@@ -1,1 +1,32 @@
-* 7dc7ced (HEAD -> develop, origin/develop) Initial commit
+*   7be7207 (HEAD -> develop, origin/develop) Resolve merge conflicts and merge feature-shared into develop (allow unrelated histories)
+|\  
+| * 45267e8 (tag: v1.1, feature-shared, feature-NguyenXuanBach) Leader: small README update for v1.1
+| *   82e1885 (tag: v1.0, origin/feature-NguyenXuanBach) Merge remote updates and resolve task-shared conflict
+| |\  
+| | * b963d08 Member A: Update task-shared.md - add frontend task details
+| | * 2486ff9 Member A: Update README.md - focus on frontend development
+| | * f4b8f2c Member B: Update project status - leading backend architecture
+| | * 2e35e7c Member B: Create task-shared.md with backend focus
+| | * ca7a3ad Member B: Update README.md title and description for backend focus
+| | *   6316119 Merge pull request #2 from maviqus/feature-NguyenXuanBach-small
+| | |\  
+| * | | c1c07c8 Add merge explanation for submission
+| * | |   4b4c601 Resolve conflict in task-shared.md: merged assignment
+| |\ \ \  
+| | * | | 36a506b (origin/memberB_task, memberB_task) Member B task file: initial by B
+| * | | | e092676 (origin/memberA_task, memberA_task) Member A task file: initial by A
+| |/ / /  
+| * | |   41ae4df Resolve conflict in README: merge contributions from A and B
+| |\ \ \  
+| | * | | 4faac36 (origin/memberB, memberB) Member B: edit README (edited by B)
+| | | |/  
+| | |/|   
+| * / | 83077fc (origin/memberA, memberA) Member A: edit README (edited by A)
+| |/ /  
+| * / bc45a45 (origin/feature-NguyenXuanBach-small) Thêm ghi chú nhỏ cho PR
+| |/  
+| * fea4c57 Add summary file for Nguyen Xuan Bach
+| * f55d06c Update task and note files with additional content
+| * 36f16ce Add task and note files for Nguyen Xuan Bach
+| * 8f3108b (origin/test-NguyenXuanBach, test-NguyenXuanBach) Add initial README
+* 7dc7ced Initial commit
