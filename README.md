@@ -1,6 +1,6 @@
-# GroupProject-Buoi3 - Backend Development by Member B
+# GroupProject-Buoi3 - Frontend Development by Member A
 
-This is the repository for Group Project Session 3 - Updated by Member B for backend work.
+This is the repository for Group Project Session 3 - Updated by Member A for frontend work.
 
 ## Contributors
 - Nguyen Xuan Bach
